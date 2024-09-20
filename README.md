@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/amirmohammadianaftah](https://github.com/amirmohammadianaftah)
 
-- 💬 Ask me about **React,Javascript,BootStrap,Css3,Html5,Tailwind**
+- 💬 Ask me about **React,Javascript,BootStrap,Css3,Html5,TailWind**
 
 - 📫 How to reach me **amir.mohammadian1999@gmail.com**
 
